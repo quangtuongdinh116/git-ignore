@@ -1,0 +1,8 @@
+# Ignore files
+file1.txt
+
+#Ignore folders
+folder1/
+
+#Ignore file extensions
+*.tmp
